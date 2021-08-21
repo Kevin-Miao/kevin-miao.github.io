@@ -8,14 +8,16 @@ author_profile: true
 ![alttext](/progr.jpg)
 
 
-[Resume will be up soon]()
+[Resume](https://www.linkedin.com/in/miaok/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAB_xYtQBhlgNG8FNF1UhShY2LY6VusLKDtg,1635456368782)/)
 
 [PDF CV](/assets/docs/Kevin-Miao-CV.pdf)
 
 # Academics
 
-<span style="font-size:18px;"> I will be graduating from UC Berkeley in the **spring of 2021** majoring in <b>Computer Science</b>. My GPA is <b>3.86</b> as of now. Prior to coming at Berkeley, I had always thought of myself as a biologist. During my sophomore year, I fell in love with the intricacies of the field of Machine Learning. Having never coded before, I was intimidated at first yet my curiosity driven by the problems of AI and the excitement powered by the endless possible applications overcame the initial challenges that I faced.
-</span>
+<span style="font-size:18px;"> 
+
+- [UC Berkeley] M.S. in Electrical Engineering & Computer Science *(Expected May 2022)*
+- [UC Berkeley] B.A. in Computer Science. Graduated with Distinction. **(May 2021)**
 
 # Coursework
 
@@ -53,21 +55,19 @@ Below here you can find a selection of relevant classes:
 
 # Teaching
 
-Teaching has been one of the most rewarding experiences I have had at Berkeley. I have been lucky enough to be part of course staff for the following two classes.
+Teaching has been one of the most rewarding experiences I have had at Berkeley. 
 
 - **Data 8: Data Science**
-  - *Jan 2019 - Present* (6 terms)
-  - Currently, I am a **uGSI** (undergraduate student instructor/TA) for one of the largest undergraduate courses at Berkeley having around 1,300 students per semester. The impact of Data Science is enormous and instructing the new generation of leaders in the field is a great honor.
+  - *Jan 2019 - May 2021* (6 terms)
 - **CS61BL: Data Structures**
   - *Summer 2020* (1 term)
-  - During the summer of 2020, I had the opportunity to be a *15 hour Tutor* for CS61B. Teaching this class, which is more conceptually difficult and hands-on, has shown me the diversity of creativity that all can lead to efficient programming. It also allowed me to more easily understand the thought process behind someone's code.
 
 ## Research Experience
 
 - **Berkeley RISE** (Sep 2020 - Present): Deep Learning Research under Dr. Gonzalez
-  - Explainability of Deep Learning Models used for Lung Diagnoses through Classification and Segmentation  
+  - Explainability of Deep Learning Models in Medical Imaging
 - **UCSF** (Dec 2019 - Present): Bioinformatics Research under Dr. Hong
-  - Classification of High Risk Cancer Patients [pre-print coming soon]()
+  - Machine-Learning Based Approach to the Risk Assesment of Outpatient Cancer Related Emergency Admissions and Hospitalizations [pre-print coming soon]()
 
 - **Whiteman Laboratory** (Jun 2018 - Jan 2020): Biology Research under Dr. Whiteman and Dr. Matsunaga
   - [Olfactory receptors tuned to volatile mustard oils in drosophilid flies](https://www.biorxiv.org/content/10.1101/2019.12.27.889774v3)
@@ -90,7 +90,7 @@ Please let me know if you want to know more about my responsibilities at those c
 * [Linear Regression](/assets/docs/Regression.pdf)
 
 
-## Projects
+## Projects (Outdated)
 
 ### Computer Vision Projects
 
